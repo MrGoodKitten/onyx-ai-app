@@ -371,7 +371,7 @@ protobuf==6.33.4 ; python_full_version >= '3.14'
     #   grpc-google-iam-v1
     #   grpcio-status
     #   proto-plus
-psutil==7.1.3
+psutil==7.2.1
     # via accelerate
 py==1.11.0
     # via retry
