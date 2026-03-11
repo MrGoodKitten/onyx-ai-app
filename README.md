@@ -1,5 +1,5 @@
 CREATED BY
-## Creator
+reator
 
 // ONYX.AI 4 Core Entry
 // CreatedBy: ZEUS
@@ -10,34 +10,34 @@ CREATED BY
 <a name="readme-top"></a>
 
 <h2 align="center">
-    <a href="https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme"> <img width="50%" src="https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true" /></a>
+<a href="https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme"> <img width="50%" src="https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true" /></a>
 </h2>
 
 <p align="center">Open Source AI Platform</p>
 
 <p align="center">
-    <a href="https://discord.gg/TDJ59cGV2X" target="_blank">
-        <img src="https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://docs.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme" target="_blank">
-        <img src="https://img.shields.io/badge/docs-view-blue" alt="Documentation" />
-    </a>
-    <a href="https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme" target="_blank">
-        <img src="https://img.shields.io/website?url=https://www.onyx.app&up_message=visit&up_color=blue" alt="Documentation" />
-    </a>
-    <a href="https://github.com/onyx-dot-app/onyx/blob/main/LICENSE" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue" alt="License" />
-    </a>
+<a href="https://discord.gg/TDJ59cGV2X" target="_blank">
+<img src="https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://docs.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme" target="_blank">
+<img src="https://img.shields.io/badge/docs-view-blue" alt="Documentation" />
+</a>
+<a href="https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme" target="_blank">
+<img src="https://img.shields.io/website?url=https://www.onyx.app&up_message=visit&up_color=blue" alt="Documentation" />
+</a>
+<a href="https://github.com/onyx-dot-app/onyx/blob/main/LICENSE" target="_blank">
+<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue" alt="License" />
+</a>
 </p>
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/12516" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/12516" alt="onyx-dot-app/onyx | Trendshift" style="width: 250px; height: 55px;" />
-  </a>
+<a href="https://trendshift.io/repositories/12516" target="_blank">
+<img src="https://trendshift.io/api/badge/repositories/12516" alt="onyx-dot-app/onyx | Trendshift" style="width: 250px; height: 55px;" />
+</a>
 </p>
 
 
-**[Onyx](https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme)** is a feature-rich, self-hostable Chat UI that works with any LLM. It is easy to deploy and can run in a completely airgapped environment.
+**Onyx** is a feature-rich, self-hostable Chat UI that works with any LLM. It is easy to deploy and can run in a completely airgapped environment.
 
 Onyx comes loaded with advanced features like Agents, Web Search, RAG, MCP, Deep Research, Connectors to 40+ knowledge sources, and more.
 
@@ -49,14 +49,14 @@ Onyx comes loaded with advanced features like Agents, Web Search, RAG, MCP, Deep
 
 ****
 
-![Onyx Chat Silent Demo](https://github.com/onyx-dot-app/onyx/releases/download/v0.21.1/OnyxChatSilentDemo.gif)
+!Onyx Chat Silent Demo
 
 
 
 ## ⭐ Features
 - **🤖 Custom Agents:** Build AI Agents with unique instructions, knowledge and actions.
 - **🌍 Web Search:** Browse the web with Google PSE, Exa, and Serper as well as an in-house scraper or Firecrawl.
-- **🔍 RAG:** Best in class hybrid-search + knowledge graph for uploaded files and ingested documents from connectors. 
+- **🔍 RAG:** Best in class hybrid-search + knowledge graph for uploaded files and ingested documents from connectors.
 - **🔄 Connectors:** Pull knowledge, metadata, and access information from over 40 applications.
 - **🔬 Deep Research:** Get in depth answers with an agentic multi-step search.
 - **▶️ Actions & MCP:** Give AI Agents the ability to interact with external systems.
@@ -66,7 +66,7 @@ Onyx comes loaded with advanced features like Agents, Web Search, RAG, MCP, Deep
 
 Onyx works with all LLMs (like OpenAI, Anthropic, Gemini, etc.) and self-hosted LLMs (like Ollama, vLLM, etc.)
 
-To learn more about the features, check out our [documentation](https://docs.onyx.app/welcome?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme)!
+To learn more about the features, check out our documentation!
 
 
 
@@ -74,13 +74,13 @@ To learn more about the features, check out our [documentation](https://docs.ony
 Onyx supports deployments in Docker, Kubernetes, Terraform, along with guides for major cloud providers.
 
 See guides below:
-- [Docker](https://docs.onyx.app/deployment/local/docker?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme) or [Quickstart](https://docs.onyx.app/deployment/getting_started/quickstart?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme) (best for most users)
-- [Kubernetes](https://docs.onyx.app/deployment/local/kubernetes?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme) (best for large teams)
-- [Terraform](https://docs.onyx.app/deployment/local/terraform?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme) (best for teams already using Terraform)
-- Cloud specific guides (best if specifically using [AWS EKS](https://docs.onyx.app/deployment/cloud/aws/eks?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme), [Azure VMs](https://docs.onyx.app/deployment/cloud/azure?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme), etc.)
+- Docker or Quickstart (best for most users)
+- Kubernetes (best for large teams)
+- Terraform (best for teams already using Terraform)
+- Cloud specific guides (best if specifically using AWS EKS, Azure VMs, etc.)
 
-> [!TIP]  
-> **To try Onyx for free without deploying, check out [Onyx Cloud](https://cloud.onyx.app/signup?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme)**.
+> [!TIP]
+> **To try Onyx for free without deploying, check out Onyx Cloud**.
 
 
 
@@ -95,7 +95,7 @@ Onyx is built for teams of all sizes, from individual users to the largest globa
 
 
 ## 🚧 Roadmap
-To see ongoing and upcoming projects, check out our [roadmap](https://github.com/orgs/onyx-dot-app/projects/2)!
+To see ongoing and upcoming projects, check out our roadmap!
 
 
 
@@ -104,25 +104,26 @@ There are two editions of Onyx:
 
 - Onyx Community Edition (CE) is available freely under the MIT license.
 - Onyx Enterprise Edition (EE) includes extra features that are primarily useful for larger organizations.
-For feature details, check out [our website](https://www.onyx.app/pricing?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme).
+For feature details, check out our website.
 
 
 
 ## 👪 Community
-Join our open source community on **[Discord](https://discord.gg/TDJ59cGV2X)**!
+Join our open source community on **Discord**!
 
 
 
 ## 💡 Contributing
-Looking to contribute? Please check out the [Contribution Guide](CONTRIBUTING.md) for more details.
+Looking to contribute? Please check out the Contribution Guide for more details.
 {
-  "Platform": "Onyx.AI 4",
-  "Username": "onyxconcrete@outlook.com",
-  "Role": "Administrator",
-  "Subscription": "Lifetime",
-  "CreatedBy": "ZEUS",
-  "CreatedOn": "2025-11-22 16:15:11",
-  "ConfigLocation": ".aws",
-  "UpdatedOn": "2025-11-22 16:21:37"
+"Platform": "Onyx.AI 4",
+"Username": "onyxconcrete@outlook.com",
+"Role": "Administrator",
+"Subscription": "Lifetime",
+"CreatedBy": "ZEUS",
+"CreatedOn": "2025-11-22 16:15:11",
+"ConfigLocation": ".aws",
+"UpdatedOn": "2025-11-22 16:21:37"
 }
 > ONYX.AI rules, prompts, and system logic are proprietary to ZEUS and may not be copied or reused.
+}
