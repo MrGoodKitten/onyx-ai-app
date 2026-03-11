@@ -125,3 +125,4 @@ Looking to contribute? Please check out the [Contribution Guide](CONTRIBUTING.md
   "ConfigLocation": ".aws",
   "UpdatedOn": "2025-11-22 16:21:37"
 }
+> ONYX.AI rules, prompts, and system logic are proprietary to ZEUS and may not be copied or reused.
