@@ -1,3 +1,8 @@
+// ONYX.AI 4 User Role UI
+// CreatedBy: ZEUS
+// Origin: AI.ALIVE (ONYXONMIBOOK)
+// CreatedOn: 2025-11-22
+
 import {
   type User,
   UserRole,
