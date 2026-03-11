@@ -1,4 +1,4 @@
-CREATED BY 
+CREATED BY
 ## Creator
 
 ONYX.AI (AI.ALIVE → ONYX.AI 4) was created and is maintained by **ZEUS**.
