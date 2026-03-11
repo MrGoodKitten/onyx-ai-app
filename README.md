@@ -1,3 +1,12 @@
+CREATED BY 
+## Creator
+
+ONYX.AI (AI.ALIVE → ONYX.AI 4) was created and is maintained by **ZEUS**.
+
+- Origin: AI.ALIVE on ONYXONMIBOOK (69 components)
+- Current platform: Onyx.AI 4 (lifetime admin: onyxconcrete@outlook.com, CreatedBy ZEUS, 2025-11-22)
+- Role: Architect, owner, and administrator
+
 <a name="readme-top"></a>
 
 <h2 align="center">
@@ -106,3 +115,13 @@ Join our open source community on **[Discord](https://discord.gg/TDJ59cGV2X)**!
 
 ## 💡 Contributing
 Looking to contribute? Please check out the [Contribution Guide](CONTRIBUTING.md) for more details.
+{
+  "Platform": "Onyx.AI 4",
+  "Username": "onyxconcrete@outlook.com",
+  "Role": "Administrator",
+  "Subscription": "Lifetime",
+  "CreatedBy": "ZEUS",
+  "CreatedOn": "2025-11-22 16:15:11",
+  "ConfigLocation": ".aws",
+  "UpdatedOn": "2025-11-22 16:21:37"
+}
