@@ -115,15 +115,22 @@ Join our open source community on **Discord**!
 
 ## 💡 Contributing
 Looking to contribute? Please check out the Contribution Guide for more details.
+
+3. Then keep the Onyx README content exactly as you already have it below.
+
+If you don’t want to move things around, at minimum wrap the JSON at the bottom like this so it’s readable:
+
+```markdown
+```json
 {
-"Platform": "Onyx.AI 4",
-"Username": "onyxconcrete@outlook.com",
-"Role": "Administrator",
-"Subscription": "Lifetime",
-"CreatedBy": "ZEUS",
-"CreatedOn": "2025-11-22 16:15:11",
-"ConfigLocation": ".aws",
-"UpdatedOn": "2025-11-22 16:21:37"
+  "Platform": "Onyx.AI 4",
+  "Username": "onyxconcrete@outlook.com",
+  "Role": "Administrator",
+  "Subscription": "Lifetime",
+  "CreatedBy": "ZEUS",
+  "CreatedOn": "2025-11-22 16:15:11",
+  "ConfigLocation": ".aws",
+  "UpdatedOn": "2025-11-22 16:21:37"
 }
 > ONYX.AI rules, prompts, and system logic are proprietary to ZEUS and may not be copied or reused.
 }
