@@ -65,9 +65,15 @@ Onyx comes loaded with advanced features like Agents, Web Search, RAG, MCP, Deep
 - **👥 Collaboration:** Chat sharing, feedback gathering, user management, usage analytics, and more.
 
 Onyx works with all LLMs (like OpenAI, Anthropic, Gemini, etc.) and self-hosted LLMs (like Ollama, vLLM, etc.)
+## Getting Started
+
+Run one of the following in your terminal:
+
+```bash
+npx assistant-ui create   # new project
+npx assistant-ui init     # add to existing project
 
 To learn more about the features, check out our documentation!
-
 
 
 ## 🚀 Deployment
