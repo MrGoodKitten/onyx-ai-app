@@ -1,11 +1,11 @@
 CREATED BY
 ## Creator
 
-ONYX.AI (AI.ALIVE → ONYX.AI 4) was created and is maintained by **ZEUS**.
+// ONYX.AI 4 Core Entry
+// CreatedBy: ZEUS
+// Origin: AI.ALIVE (ONYXONMIBOOK)
+// CreatedOn: 2025-11-22
 
-- Origin: AI.ALIVE on ONYXONMIBOOK (69 components)
-- Current platform: Onyx.AI 4 (lifetime admin: onyxconcrete@outlook.com, CreatedBy ZEUS, 2025-11-22)
-- Role: Architect, owner, and administrator
 
 <a name="readme-top"></a>
 
