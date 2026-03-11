@@ -33,22 +33,4 @@ ONYX.AI is a concrete, production-focused AI assistant platform designed for sec
 Install and run ONYX.AI using the installer:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MrGoodKitten/onyx-ai-app/main/install.sh | bash
-{
-  "Platform": "Onyx.AI 4",
-  "Username": "onyxconcrete@outlook.com",
-  "Role": "Administrator",
-  "Subscription": "Lifetime",
-  "CreatedBy": "ZEUS",
-  "CreatedOn": "2025-11-22 16:15:11",
-  "ConfigLocation": ".aws",
-  "UpdatedOn": "2025-11-22 16:21:37"
-}
-ONYX.AI rules, prompts, and system logic are proprietary to ZEUS and may not be copied or reused.
-### Step 2 – Commit the fix
-
-1. Scroll down, click **“Commit changes…”**.[1]
-2. Use a message like `chore: restore clean ONYX README`.  
-3. Click **Commit**.  
-
-After that, reload `https://github.com/MrGoodKitten/onyx-ai-app` and your README will be clean, with the Onyx header, ZEUS credits, and correct install command—no more broken stuff from last night.[2][1]
+curl -fsSL https://raw.githubusercontent.com/MrGoodKitten/onyx-ai-app/main/install.sh | bash 
