@@ -1,3 +1,7 @@
+// ONYX.AI 4 Core Entry
+// CreatedBy: ZEUS
+// Origin: AI.ALIVE (ONYXONMIBOOK)
+// CreatedOn: 2025-11-22
 package main
 
 import (
