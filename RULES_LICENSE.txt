@@ -1,0 +1,22 @@
+ONYX.AI RULES LICENSE
+Version 1.0 – 2026-03-10
+
+Copyright (c) 2025-2026 ZEUS.
+
+The ONYX.AI rules, prompts, configurations, system logic, and policies
+(“Rules”) are proprietary to ZEUS. They are NOT open source, even if the
+ONYX.AI codebase is published under an open source license.
+
+You MAY:
+- Run the Rules as part of an ONYX.AI instance that clearly credits "CreatedBy: ZEUS".
+
+You MAY NOT:
+- Copy, reproduce, or redistribute the Rules in whole or in part.
+- Modify the Rules and claim them as your own.
+- Use the Rules to build or train a competing product or service.
+- Remove or alter any "CreatedBy: ZEUS" or attribution notice.
+
+Any use of the Rules in violation of these terms is strictly prohibited and
+may result in legal action, takedown requests, and claims for damages.
+
+The Rules are provided "AS IS" without warranty of any kind.
