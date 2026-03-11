@@ -2,8 +2,8 @@
 // CreatedBy: ZEUS
 // Origin: AI.ALIVE (ONYXONMIBOOK)
 // CreatedOn: 2025-11-22
-package main
 
+package main
 import (
 	"fmt"
 	"os"
