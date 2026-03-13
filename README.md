@@ -5,10 +5,41 @@ CREATED BY ZEUS
 // Origin: AI.ALIVE (ONYXONMIBOOK)  
 // CreatedOn: 2025-11-22
 
-text
-<a href="https://www.assistant-ui.com">
-  <img src="https://raw.githubusercontent.com/assistant-ui/assistant-ui/main/.github/assets/header.svg" alt="assistant-ui Header" width="100%" />
-</a>
+<header className="w-full border-b border-neutral-800 bg-black/80 backdrop-blur-sm">
+  <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
+    <a
+      href="https://onyx.ai.cloud.app"
+      target="_blank"
+      rel="noreferrer"
+      className="flex items-center gap-3"
+    >
+      {/* Onyx logo – put your file in /public/onyx-logo.svg */}
+      <img
+        src="/onyx-logo.svg"
+        alt="Onyx"
+        className="h-8 w-8 rounded-lg shadow-[0_0_18px_rgba(0,255,255,0.5)]"
+      />
+      <div className="flex flex-col leading-tight">
+        <span className="text-sm font-semibold uppercase tracking-[0.25em] text-cyan-300">
+          ONYX.AI.MINERS
+        </span>
+        <span className="text-base font-medium text-neutral-100">
+          QRL Superhighway · Für Elise Binary Chorus
+        </span>
+      </div>
+    </a>
+
+    <div className="flex items-center gap-2 text-xs text-neutral-400">
+      <span className="px-2 py-0.5 rounded-full border border-purple-500/60 bg-purple-700/30 text-purple-100">
+        Creator: Mark
+      </span>
+      <span className="hidden md:inline">
+        Powered by assistant‑ui
+      </span>
+    </div>
+  </div>
+</header>
+
 
 <p align="center">
   <a href="https://www.assistant-ui.com">Product</a> ·
