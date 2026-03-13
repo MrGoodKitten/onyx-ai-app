@@ -50,6 +50,13 @@ const sharedConfig = {
         "@radix-ui",
         "@headlessui",
         "@phosphor-icons",
+        // AI Chat
+        "@assistant-ui",
+        "assistant-stream",
+        "assistant-cloud",
+        "@assistant-ui/store",
+        "@assistant-ui/core",
+        "@assistant-ui/tap",
         // Testing & Mocking
         "msw",
         "until-async",
